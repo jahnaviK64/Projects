@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/1.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers3</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/2.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers4</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/3.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers1</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/4.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers2</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/5.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers1</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/6.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers3</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/7.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers4</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/8.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers2</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/9.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers5</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>Images/10.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers5</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/11.png</ImageUrl>
+    <AlternateText>ads</AlternateText>
+    <Keyword>Computers5</Keyword>
+    <Width>19%</Width>
+    <Height>150</Height>
+  </Ad>
+</Advertisements>

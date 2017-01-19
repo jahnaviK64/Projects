@@ -1,0 +1,410 @@
+﻿body {
+    /*background-color:antiquewhite;*/
+}
+.container
+{
+    margin-left:150px;
+    margin-bottom:150px;
+    margin-right:150px;
+    background-color:white; /** first it was antique white**/
+    font-family:Arial;
+    font-size:18px;
+    align-items:center;
+    /*height:1500px;*/
+    /*border:groove;*/
+}
+strong{
+    font-size:23px;
+}
+.left{
+    float:left;
+    height:125px;
+    width:150px;
+    /*padding:0px 5px 5px 0px;*/
+}
+/*.image{
+    width:5%;
+}*/
+.first{
+    /*padding:10px;*/
+    text-align:center;
+    background-color:mediumpurple;
+    color:white;
+    border:3px solid #1556C7;
+    font-size:20px;
+    height:125px;
+    /*padding: 0 0 0 5px;*/
+}
+.second{
+   border:3px solid lightgoldenrodyellow;
+   font-family:'Times New Roman';
+   font-weight:bold;
+   height:300px;
+   /*text-align:center;*/
+}
+.part1{
+    background-color:aquamarine;
+    width:22%;
+    height:300px;
+    float:left;
+    font-size:18px;
+    line-height:1.5em;
+    /*position:absolute;*/
+    /*border:2px dashed black;*/
+}
+ul{
+    list-style:none;
+    text-align:left;
+}
+.part2{
+    padding-left:3px;
+    background-color:lightgoldenrodyellow;
+    width:77.6%;
+    height:300px;
+    float:right;
+    color:forestgreen;
+    /*font-weight:bold;*/
+    font-size:18px;
+    /*margin-left: 0px;*/
+    line-height:1.5em;
+    /*border:2px dashed black;*/
+}
+
+/*.one
+{
+    width:20%;
+    float:left;  
+}*/
+
+/*.two{
+    width:400px;
+    height:350px;
+    float:right;
+    padding:20px 50px 10px 50px;
+    margin-top:20px;
+}*/
+
+/*.three{
+    width:400px;
+    height:350px;
+    float:right;
+    padding:20px 50px 10px 50px;
+    margin-top:20px;
+}*/
+
+.third{
+    /*margin-top:100px;*/
+    height:250px;
+    margin-bottom:20px;
+    align-items:center;
+    /*background-color:bisque;*/
+    /*border:2px dashed black;*/
+}
+#one
+{
+width:30%;
+float:left;
+margin-top:10px;
+}
+#two{
+   width:35%;
+   /*height:500px;*/
+   float:right;
+   margin-top:10px;
+}
+#three{
+    width:35%;
+    /*height:500px;*/
+    float:right;
+    margin-top:10px;
+}
+#horizontalline{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+}
+
+#arrow
+{
+  width:0;
+  height:0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent; 
+  border-left:7px solid blue; 
+}
+.infor:hover .submenu{
+    display:block;   
+}
+
+.submenu
+{
+   display: none;
+    position: absolute;
+    color:white;
+    top:11.5em;
+   margin-left:115px;
+    
+}
+.submenu a 
+{
+    padding:0;
+    position:relative;
+    float:left;
+}
+
+/******************************* glossary styles *******************************************/
+.breadcrumb{
+    background-color:#CFA8FF;
+    list-style:none;
+    padding:10px;
+}
+.breadcrumb li
+{
+    display: inline;
+}
+/*ul.breadcrumb li:before {
+    padding: 4px;
+    color: black;
+    content: "|";
+}*/
+.glossnav li{
+    display:inline;
+    /*margin-left:-5px;*/
+    list-style:none;
+}
+.glosscenter p{
+    text-align:justify;
+    line-height:0.5px;
+    /*padding: 5px 0 0 5px;*/
+}
+#caps{
+    font-weight:bold;
+    /*text-decoration:wavy;*/
+    /*background-color:yellow;*/
+}
+#col{
+   color:firebrick;
+}
+.navbar{
+    font-size:16px;
+    font-family:'Times New Roman';
+}
+.navbar1{
+    font-size:16px;
+    font-family:'Times New Roman';
+}
+/*+++++++++++++++++++++++++ FAQ styles ++++++++++++++++++++++++++++++*/
+#questions{
+    text-align:justify;
+    /*margin: 10px;*/
+}
+#formtable,#fr1, #fc1,#fc11, #fr2, #fc2, #fc22, #fr3, #fc3, #fc33, #fr4, #fc4, #fc44{
+/*align-self:center;*/
+border:3px solid #CFA8FF;   
+border-collapse:collapse;
+text-align:left;
+/*width:100%;*/
+}
+/*.table {
+    width:100%;
+}*/
+td, td{
+    /*margin:25px;*/
+    width:50%;
+}
+ div{
+     margin-top:0;
+ }
+
+ /********************** Assignment 4 **************************/
+ #login{
+  float:right;
+ }
+  #logout{
+  float:right;
+ }
+ #credentials1 {
+ /*margin-left:1em;*/
+ Height:1.8em;
+ Width:20em;
+ }
+
+ #credentials{
+ /*margin-left:9.4em;*/
+ Height:1.8em;
+ Width:20em;
+ }
+ #loginbtn{
+     margin-left:14em;
+     border:1px;
+ }
+ #userloginlbl{
+     Font-Size:1.5em;
+     font-weight:bold;
+     color:firebrick;
+     margin-left:7em;
+ }
+ #linelbl{
+     color:orangered;
+ }
+ #loginbox{
+     padding:5px;
+     /*border:2px solid black;*/
+     font-size:18px;
+     height:300px;
+     width:80%;
+ }
+ #logintable{
+}
+ #submitbtn{
+ margin-left:45%;
+ }
+ .registrationform{
+     /*border:1px solid black;*/
+     padding:15px;
+     font-size:0.7em;
+     font-weight:bold;
+     width:90%;
+     height:auto;
+ }
+
+ #checklbl{
+     font-size:1.5em;
+ }
+ .registrationform > p{
+     color:darkblue;
+ }
+
+ #ddlMonth, #ddlDate, #ddlYear{
+     Height:1.6em;
+     border:1px solid black;
+ }
+#regtable{
+    /*border-collapse:collapse;*/
+    text-align:left;
+    padding:7px;
+    font-size:17px;
+}
+ 
+#secdropdwn{
+    /*margin-left:11%;*/
+    height:1.5em;
+    width:26.5em;
+    border:2px solid black;
+}
+#regtxtbox1, #regtxtbox2, #regtxtbox3, #regtxtbox4, #regtxtbox5, #regtxtbox6, #regtxtbox7, #regtxtbox8, #regtxtbox9, #secdropdwn {
+border:1px solid black;
+ }
+#ssnq, #dobq, #secqq, #fullnq, #pwdrules, #chars, #addressq{
+    color: #FF0000; 
+    background-color: #FFFF00;
+}
+
+/*+++++++++++++++++++++++++++++++++++ My Account styles+++++++++++++++++++++++++++++++++++++++++*/
+ /*#myacctable2, #mat2,  #mat4,  #mat5,#mat8,#mat10, #mat11,#mat16,#mat17,*/
+ /*, #mat2,  #mat4,  #mat5,#mat8,#mat10, #mat11,#mat16,#mat17,#mat1,  #mat3,  #mat6, #mat7,#mat9,#mat12, #mat13, #mat14, #mat15, #mat18*/
+
+/*#mat1,  #mat3,  #mat6, #mat7, 
+#mat9,#mat12, #mat13, #mat14, #mat15, #mat18
+{
+     text-align:right; 
+    font-size:x-large;
+    width:100%;
+}*/
+
+
+/*+++++++++++++++++++++++++common my account table 2 properties+++++++++++++++++++++++++++++++++++++*/
+.myaccount{
+    color:darkblue;
+}
+#myaccheader{
+    font-size:x-large;
+    /*text-align:center;*/
+    font-weight:bold;
+    color:firebrick;
+}
+
+#myacctable2,#mat1,#mat2,#mat3,#mat4,#mat5,#mat6, #mat7, #mat8,
+#mat9,#mat10,#mat11,#mat12, #mat13, #mat14, #mat15,#mat16, #mat17, #mat18{
+align-self:center;
+border:1px solid #CFA8FF;   
+border-collapse:collapse;
+/*text-align:left;*/
+width:100%;
+font-size:x-large;
+padding:5px;
+}
+ /* myacctable2 row colors*/
+#mat1,#mat7,#mat13 {
+    background-color: #CBC8FC;
+}
+#mat4, #mat10, #mat16{
+    background-color:#f1e9fb;
+}
+/*cell colors*/
+#myacctable2{
+    width:95%;
+}
+#myacctable1{
+    font-size:x-large;
+   font-weight:bold;
+}
+#accnum{
+    text-align:right;
+    font-size:x-large;
+    color:#a524bc;
+    float:right;
+}
+/*row styles*/
+#mat2,#mat5,#mat8,#mat11,#mat14,#mat17{
+    width:50%;
+}
+#mat3,#mat6,#mat9,#mat12,#mat15,#mat18{
+    text-align:right;
+    font-weight:bold;
+    color:#a524bc;
+}
+#myaccbottom{
+    font-weight:bold;
+    font-size:xx-large;
+}
+/****************************************** Assignment 5 *******************************************/
+#Label2{
+    color:darkblue;
+    font-size:0.8em;
+}
+#pwdresetlink{
+    font-size:0.8em;
+}
+.validations{
+    color:firebrick;
+    font-size:0.8em;
+}
+
+#pwdreclbl{
+    font-size:1.5em;
+    color:darkblue;
+}
+/*#pwdrectable{
+    width:70%;
+}*/
+
+#pwsreclbl{
+    color:darkblue;
+    Font-Size:1.3em;
+    font-weight:bold;
+    margin-left:4.5em;
+}
+#pwdrecemailtxt{
+    margin-left:10px;
+    Height:1.5em;
+    Width:14em;
+}
+#pwdreclinkbtn{
+    margin-left:8em;
+    font-size:0.8em;
+}
