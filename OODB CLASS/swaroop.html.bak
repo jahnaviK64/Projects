@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GROUP-5</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<h1>CLASS SCHEDULE SYSTEM</h1>
+		<ul id="navigation">
+			
+			<li class="selected">
+				<a href="index.html">ABOUT US</a>
+			</li>
+			<li>
+				<a href="project.html">PROJECT</a>
+			</li>
+			<li>
+				<a href="dairy.html">GROUP DIARY</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>SAI SWAROOP PALADUGU</span></h1>
+		<div>
+			<img style="margin-left:50"src="images/swaroop.jpg" alt="swaroop's image" width="150px" height="200px">
+			<p><i><u>Graduate Student Computer Science Dept</br>
+						University of Houston - Clear Lake</br>
+						2700 Bay Area Blvd.</br>
+						Houston, TX 77058-1098</br>
+						</u></i></br></p>
+			<div class="article">
+			    <h3>About me</h3>
+				<p>
+					Dear Reader, I am Sai swaroop paladugu pursuing Master's in computer science at UHCL. I have interest in systems,interfaces, languages and developing human-computer interaction friendly web pages. I have knowledege in HTML, CSS and JavaScript.<br/>
+					Lives in: Houston <br/>
+					Contacts me: <u>send.swaroop@gmail.com</u>
+				</p>
+
+				<h3>Education</h3>
+				<p>
+					Master's in computer science major at University of Houston-Clear Lake<br/>
+					year: 2015-present
+				</p>
+				<h3>Technical Skills</h3>
+				<p>
+					Programming languages	: C , Core Java, Android <br/>
+					Graphic applications	: HTML, JSP <br/>
+					Scripting languages		: Java Script <br/>
+					Database			    : Oracle 11g, MySQL <br/>
+					Web Server			    : Apache Tomcat <br/>
+
+				</p>
+				<h3>Professional Experience</h3>
+				<p>
+					Even though I don't have experience professionally, i had worked in the fields of web designing and Application developement (Android). 
+				</p>
+				<h3>Projects</h3>
+				<p>
+				Title: ALUMNI ALLIANCE.<br/>
+				Technology Used: ANDROID.
+				Description: In this project, I have create an android application for alumni of the college, so that they can  interact with the college mates and can share the knowledge about job opportunities, projects they are working on and trends in the company. By this, students can become professional in earlier and acquire knowledge about the working conditions.     <br/>
+
+				Title: ALERT JOURNEY. <br/>
+				Technology Used: ANDROID.
+				Description: In this project, I have created an interface that will take destination(place) as an input from user and gets the latitude and longitude of that place using GPRS dynamically. As usually the application will generate the latitude and longitude of current position using the same technique. Using this data we can find distance between two places through some mathematical equations and the application will automatically trigger alarm when the destination is 2 km farther. This is useful for all the travellers as a reminder.
+
+					
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; GROUP-5. OODB PROJECT.</p>
+			<ul>
+				<li>
+				<!-- <img src="images\blog.png" alt="blog">
+					<a href="http://sce.uhcl.edu/liaw/" id="twitter" target="_blank">Dr.Liaw</a> -->
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

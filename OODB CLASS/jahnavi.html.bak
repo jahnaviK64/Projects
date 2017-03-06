@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GROUP-5</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<h1>CLASS SCHEDULE SYSTEM</h1>
+		<ul id="navigation">
+			
+			<li class="selected">
+				<a href="index.html">ABOUT US</a>
+			</li>
+			<li>
+				<a href="project.html">PROJECT</a>
+			</li>
+			<li>
+				<a href="dairy.html">GROUP DIARY</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>JAHNAVI KURRA</span></h1>
+		<div>
+			<img style="margin-left:50"src="images/jahnavi.jpg" alt="jahnavi's image" width="150px" height="200px">
+			<p><i><u>Graduate Student Computer Science Dept</br>
+						University of Houston - Clear Lake</br>
+						2700 Bay Area Blvd.</br>
+						Houston, TX 77058-1098</br>
+						</u></i></br></p>
+			<div class="article">
+			    <h3>About me</h3>
+				<p>
+					Hello, I am Jahnavi Kurra currently pursuing my Master's program in computer science major at UHCL. I am passionate to create GUI websites.<br/>
+					Lives in: Houston <br/>
+					Contacts me: <u>jahnavik64@gmail.com</u>
+				</p>
+
+				<h3>Education</h3>
+				<p>
+					Master's in computer science major at University of Houston-Clear Lake<br/>
+				</p>
+				<h3>Technical Skills</h3>
+				<p>
+					Programming languages	: C, C++, C#<br/>
+					Graphic applications	: HTML <br/>
+					Scripting languages		: Java Script <br/>
+
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; GROUP-5. OODB PROJECT.</p>
+			<ul>
+				<li>
+				<!-- <img src="images\blog.png" alt="blog">
+					<a href="http://sce.uhcl.edu/liaw/" id="twitter" target="_blank">Dr.Liaw</a> -->
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

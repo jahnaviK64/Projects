@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GROUP-5</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<h1>CLASS SCHEDULE SYSTEM</h1>
+		<ul id="navigation">
+			
+			<li class="selected">
+				<a href="index.html">ABOUT US</a>
+			</li>
+			<li>
+				<a href="project.html">PROJECT</a>
+			</li>
+			<li>
+				<a href="dairy.html">GROUP DIARY</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>BHAVITHA SAI YENDRATHI</span></h1>
+		<div>
+			<img style="margin-left:50"src="images/bhavitha.jpg" alt="Bhavitha image" width="150px" height="200px">
+			<p><i><u>Graduate Student Computer Science Dept</br>
+						University of Houston - Clear Lake</br>
+						2700 Bay Area Blvd.</br>
+						Houston, TX 77058-1098</br>
+						</u></i></br></p>
+			<div class="article">
+			     <h3>About me</h3>
+				<p>
+					Bhavitha Sai Yendrathi pursuing Master's in computer science at UHCL have interest in systems,interfaces, languages and developing human-computer interaction friendly web pages with an ample of knowledege in HTML, CSS and JavaScript.<br/>
+					Lives in: Houston <br/>
+					Contacts me: <u>YendrathiBhavitha1994@gmail.com</u>
+				</p>
+
+				<h3>Education</h3>
+				<p>
+					Master's in computer science major at University of Houston-Clear Lake<br/>
+					year: 2015-present
+				</p>
+				<h3>Technical Skills</h3>
+				<p>
+					Programming languages	: C , Core Java, Android <br/>
+					Graphic applications	: HTML, JSP <br/>
+					Scripting languages		: Java Script <br/>
+					Database			    : Oracle 11g, MySQL <br/>
+					Web Server			    : Apache Tomcat <br/>
+
+				</p>
+				<h3>Professional Experience</h3>
+				<p>
+					Even thought i don't have experience professionally, i had worked in the fields of web designing and web application development. 
+				</p>
+				<h3>Projects</h3>
+				<p>
+				Title:Colloquy.<br/>
+				Technology Used: Java.
+				Description: In this project, I have create a java application for population of the college, so that they can  interact with the college mates and professors can share the knowledge about job opportunities, projects they are working ,ongoing trends in the corporate world and pose questions and form disscussions on those topics. By this, students can become professional in earlier and acquire knowledge about the working conditions in an easier way .   <br/>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; GROUP-5. OODB PROJECT.</p>
+			<ul>
+				<li>
+				<!-- <img src="images\blog.png" alt="blog">
+					<a href="http://sce.uhcl.edu/liaw/" id="twitter" target="_blank">Dr.Liaw</a> -->
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

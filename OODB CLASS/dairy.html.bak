@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Project Diary</title>
+ </head>
+ <body>
+  <div id="header">
+		<h1>CLASS SCHEDULE SYSTEM</h1>
+		<ul id="navigation">
+			
+			<li>
+				<a href="index.html">ABOUT US</a>
+			</li>
+			<li>
+				<a href="project.html">PROJECT</a>
+			</li>
+			<li class="selected">
+				<a href="dairy.html">GROUP DIARY</a>
+			</li>
+			<li>
+				<a href="conceptualization.docx">conceptualization</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Project Diary</span></h1>
+		<div>
+			 <table>
+				<tr>
+				<th>Date</th>
+				<th>WORK IN DETAIL</th>
+				</tr>
+				<tr>
+				<td>FEB 17TH</td>
+				<td>Project abstract finalized</td>
+				</tr>
+				<tr>
+				<td>FEB 25TH</td>
+				<td>Roles assigned to team members</td>
+				</tr>
+				<tr>
+				<td>MAR 3RD</td>
+				<td>Requirements analysis and gathering </td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				</tr>
+				<tr>
+				<td></td>
+				<td></td>
+				</tr>
+				</table>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; GROUP-5. OODB PROJECT.</p>
+			<ul>
+				<li>
+				<!--<img src="images\blog.png" alt="blog">
+				<a href="http://sce.uhcl.edu/liaw/" id="twitter" target="_blank">Dr.Liaw</a> -->
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+ </body>
+</html>

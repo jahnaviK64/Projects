@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GROUP-5</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header">
+		<h1>CLASS SCHEDULE SYSTEM</h1>
+		<ul id="navigation">
+			
+			<li class="selected">
+				<a href="index.html">ABOUT US</a>
+			</li>
+			<li>
+				<a href="project.html">PROJECT</a>
+			</li>
+			<li>
+				<a href="dairy.html">GROUP DIARY</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Veena Madhuri Yeruva</span></h1>
+		<div>
+			<img style="margin-left:50"src="images/veena.jpg" alt="veena's image" width="150px" height="200px">
+			<p><i><u>Graduate Student Computer Science Dept</br>
+						University of Houston - Clear Lake</br>
+						2700 Bay Area Blvd.</br>
+						Houston, TX 77058-1098</br>
+						</u></i></br></p>
+			<div class="article">
+			    <h3>About me</h3>
+				<p>
+					Hi, I am Veena Madhuri Yeruva pursuing Master's in computer science at UHCL.<br/>
+					Lives in: Houston <br/>
+					Contacts me: <u>yeruvav7634@uhcl.edu</u>
+				</p>
+
+				<h3>Education</h3>
+				<p>
+					Master's in computer science major at University of Houston-Clear Lake<br/>
+				</p>
+				<h3>Technical Skills</h3>
+				<p>
+					Programming languages	: C , Core Java, .NET<br/>
+					Graphic applications	: HTML<br/>
+					Scripting languages		: Java Script <br/>
+					Database			    : Oracle 11g, MySQL <br/>
+					
+                </p>
+				
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; GROUP-5. OODB PROJECT.</p>
+			<ul>
+				<li>
+				<!-- <img src="images\blog.png" alt="blog">
+					<a href="http://sce.uhcl.edu/liaw/" id="twitter" target="_blank">Dr.Liaw</a> -->
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
